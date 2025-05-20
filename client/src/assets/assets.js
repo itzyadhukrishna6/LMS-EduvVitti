@@ -92,26 +92,26 @@ export const assets = {
 }
 
 export const dummyTestimonial = [
-    {
-        name: 'Donald Jackman',
-        role: 'SWE 1 @ Amazon',
+   {
+        name: 'Yadhukrishnan KV',
+        role: 'Web Designer @ Samsung',
         image: assets.profile_img_1,
         rating: 5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'As someone balancing work and learning, EduVritti is a lifesaver. The platform is clean, fast, and the course content is well-structured. I love how I can pick up right where I left off!',
     },
     {
-        name: 'Richard Nelson',
-        role: 'SWE 2 @ Samsung',
+        name: 'Vaishnav CM',
+        role: 'Software Developer @ Amazon',
         image: assets.profile_img_2,
         rating: 4,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'EduVritti made learning so easy and organized for me. The text-based format is super clear, and I can study at my own pace without pressure. It’s perfect for students who want to focus and understand deeply.',
     },
     {
-        name: 'James Washington',
-        role: 'SWE 2 @ Google',
+        name: 'Shamil Muhammad',
+        role: 'Aeronautical Engineer @ Boeing',
         image: assets.profile_img_3,
         rating: 4.5,
-        feedback: 'I\'ve been using Imagify for nearly two years, primarily for Instagram, and it has been incredibly user-friendly, making my work much easier.',
+        feedback: 'I’ve tried many LMS platforms, but EduVritti stands out for its simplicity and effectiveness. The text-based courses help me stay focused, and the progress tracking keeps me motivated.',
     },
 ];
 
